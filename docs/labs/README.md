@@ -1,1 +1,1 @@
-# MAT281 - Lab
+# MAT281 - Labs
